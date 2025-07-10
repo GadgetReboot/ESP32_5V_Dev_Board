@@ -1,0 +1,39 @@
+### Footprint positions - created on 2025-07-08T16:03:59-0400 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                   Package                                           PosX       PosY       Rot  Side
+G***      LOGO                  pcb_way_logo                                   21.8000    53.4000  180.0000  bottom
+C1        100nF                 C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    65.3500    31.8500  180.0000  top
+C2        47uF                  C_Elec_4x5.4                                   54.7000     6.0000  -90.0000  top
+C3        100nF                 C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    55.3550    10.8250    0.0000  top
+C4        47uF                  C_Elec_4x5.4                                   61.7000     9.6250    0.0000  top
+C5        47uF                  C_Elec_4x5.4                                   61.6000    15.9000    0.0000  top
+C6        1nF                   C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    69.2150     8.7450  -90.0000  top
+C7        1nF                   C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    69.1000    15.0000   90.0000  top
+C8        100nF                 C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    54.5950    25.9950  -90.0000  top
+C9        100nF                 C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    54.2150    38.9050   90.0000  top
+C10       100nF                 C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    16.9250    46.7050   90.0000  top
+C11       100nF                 C_0805_2012Metric_Pad1.18x1.45mm_HandSolder    27.7350    46.7050   90.0000  top
+J1        Micro_SD_TFP09-2-12B  TFP09212B                                      75.6250    32.9100  180.0000  top
+J2        Conn_02x10_Odd_Even   PinSocket_2x10_P2.54mm_Horizontal              71.2500    46.2500  -90.0000  top
+J3        Conn_01x15            PinHeader_1x15_P2.54mm_Vertical                 6.7000    46.4400    0.0000  top
+J4        Conn_01x15            PinHeader_1x15_P2.54mm_Vertical                38.2000    46.4400    0.0000  top
+J5        DAC_Out               PJ320A                                         73.0400    18.9000  -90.0000  top
+J6        Conn_01x03            PinHeader_1x03_P2.54mm_Vertical                38.3150    56.1400    0.0000  top
+R1        10K                   R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    64.0000    38.2000  -90.0000  top
+R2        10K                   R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    66.2000    26.4000   90.0000  top
+R3        10K                   R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    66.3000    38.2250  -90.0000  top
+R4        10K                   R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    27.9300    18.5400    0.0000  top
+R5        10K                   R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    27.8800    13.4400    0.0000  top
+R6        10K                   R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    27.8400    21.1100    0.0000  top
+R7        0r                    R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    44.6540    45.6490    0.0000  top
+R8        10r                   R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    50.6000     8.5000  180.0000  top
+R9        7.5K                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    66.7000     8.7000  -90.0000  top
+R10       7.5K                  R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    66.6000    15.0000   90.0000  top
+R11       10K                   R_0805_2012Metric_Pad1.20x1.40mm_HandSolder    16.9200    35.7500  -90.0000  top
+U1        ESP32_DevKit_V1_DOIT  esp32_devkit_v1_doit                           22.4500    10.9250  180.0000  top
+U2        TXS0108EPW            TSSOP-20_4.4x6.5mm_P0.65mm                     56.8500    32.3250   90.0000  top
+U3        TXS0104EPW            TSSOP-14_4.4x5mm_P0.65mm                       22.3750    43.5000    0.0000  top
+U4        PT8211                SOIC-8_3.9x4.9mm_P1.27mm                       49.4250    13.2750    0.0000  top
+## End
